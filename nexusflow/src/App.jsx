@@ -1,5 +1,11 @@
-import { useState } from "react";
+import Signup from "./Signup>/Signup.jsx";
 
-function App() {}
+function App() {
+  return (
+    <div>
+      <Signup />
+    </div>
+  );
+}
 
 export default App;
